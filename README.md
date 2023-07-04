@@ -1,2 +1,1 @@
-# PrepCourse
-Para el modulo 2 del PrepCourse
+Proyecto de prueba para repositorio y clonarlo
